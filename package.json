@@ -1,8 +1,8 @@
 {
   "name": "dpc-remix",
   "private": true,
-  "description": "Example built with Remix.run framework",
-  "license": "",
+  "description": "Example app built with Remix.run framework",
+  "license": "MIT",
   "sideEffects": false,
   "scripts": {
     "dev": "concurrently \"remix dev\" \"npm:db\"",
